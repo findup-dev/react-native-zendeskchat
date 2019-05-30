@@ -1,5 +1,5 @@
 {
-  "name": "react-native-zendeskchat",
+  "name": "@findup/react-native-zendeskchat",
   "version": "1.0.0",
   "description": "React Native Zendesk Chat",
   "main": "index.js",
@@ -15,5 +15,8 @@
     "react-native": "^0.41.2",
     "react-native-windows": "0.41.0-rc.1"
   },
-  "repository": "https://github.com/findup-dev/react-native-zendeskchat.git"
+  "repository": {
+    "url": "https://github.com/findup-dev/react-native-zendeskchat",
+    "type": "git"
+  }
 }
