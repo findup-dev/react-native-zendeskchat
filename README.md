@@ -1,5 +1,5 @@
 
-# react-native-zendeskchat
+# IN PROGRESS DEV - react-native-zendeskchat
 
 ## Getting started
 
